@@ -1,0 +1,12 @@
+.blogs-list {
+  width: 70%;
+  margin: auto;
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+@media (max-width: 1024px) {
+  .blogs-list {
+    width: 95%;
+  }
+}
